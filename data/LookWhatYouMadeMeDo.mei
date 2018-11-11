@@ -2,13 +2,28 @@
 <?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+    
     <meiHead>
+    
         <fileDesc>
-            <titleStmt>
-                <title>Look What You Made Me Do</title>
+            <titleStmt xml:id="XX">
+                <title authURI="https://babelnet.org/synset?word=bn:21252889n&details=1&lang=EN&orig=look%20what%20you%20made%20me%20do" authority="BabelNet" xml:id="XX">Look What You Made Me Do</title>
+            	<date>25. August 2017</date>
+            	<lyricist>Taylor Swift, Jack Antonoff, Fred Fairbrass, Richard Fairbrass, Rob Manzoli</lyricist>
             </titleStmt>
-            <pubStmt></pubStmt>
+            
+            <editionStmt>
+    			<respStmt>
+    				<resp>Sung by</resp>
+    				<corpName role="sng">Taylor Swift</corpName>
+    			</respStmt>
+            </editionStmt>
+            
+            <pubStmt>
+            	<publisher>Big Machine Records</publisher>
+            </pubStmt>
         </fileDesc>
+        
         <encodingDesc xml:id="encodingdesc-0000001724198022">
             <appInfo xml:id="appinfo-0000000284877259">
                 <application xml:id="application-0000000788384910" isodate="2018-10-27T14:02:52" version="2.0.0-dev-c0ae726">
@@ -17,7 +32,9 @@
                 </application>
             </appInfo>
         </encodingDesc>
+        
     </meiHead>
+    
     <music>
         <body>
             <mdiv xml:id="mdiv-0000000992300483">
