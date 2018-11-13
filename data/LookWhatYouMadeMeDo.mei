@@ -6,22 +6,26 @@
     <meiHead>
     
         <fileDesc>
-            <titleStmt xml:id="XX">
-                <title authURI="https://babelnet.org/synset?word=bn:21252889n&details=1&lang=EN&orig=look%20what%20you%20made%20me%20do" authority="BabelNet" xml:id="XX">Look What You Made Me Do</title>
-            	<date>25. August 2017</date>
-            	<lyricist>Taylor Swift, Jack Antonoff, Fred Fairbrass, Richard Fairbrass, Rob Manzoli</lyricist>
+            <titleStmt xml:id="s1">
+                <title authURI="https://babelnet.org/synset?word=bn:21252889n&details=1&lang=EN&orig=look%20what%20you%20made%20me%20do" authority="BabelNet" xml:id="t1">Look What You Made Me Do</title>
+            	<date xml:id="d1">25. August 2017</date>
+            	<respStmt>
+					<persName role="lyr" authURI="https://babelnet.org/synset?word=bn:03340244n&details=1&lang=EN&orig=taylor%20swift" authority="BabelNet" xml:id="lyricist1">Taylor Swift</persName>
+					<persName role="lyr" authURI="https://babelnet.org/synset?word=jack+antonoff&lang=EN&details=1&orig=jack+antonoff" authority="BabelNet" xml:id="lyricist2">Jack Antonoff</persName>
+					<persName role="lyr" authURI="https://babelnet.org/synset?word=Fred+Fairbrass&lang=EN&details=1&orig=Fred+Fairbrass" authority="BabelNet" xml:id="lyricist3">Fred Fairbrass</persName>
+					<persName role="lyr" authURI="https://babelnet.org/synset?word=Richard+Fairbrass&lang=EN&details=1&orig=Richard+Fairbrass" authority="BabelNet" xml:id="lyricist4">Richard Fairbrass</persName>
+					<persName role="lyr" authURI="https://babelnet.org/synset?word=Rob+Manzoli&lang=EN&details=1&orig=Rob+Manzoli" authority="BabelNet" xml:id="lyricist5">Rob Manzoli</persName>
+				</respStmt>
             </titleStmt>
             
             <editionStmt>
     			<respStmt>
     				<resp>Sung by</resp>
-    				<corpName role="sng">Taylor Swift</corpName>
+    				<corpName role="sng" authURI="https://babelnet.org/synset?word=bn:03340244n&details=1&lang=EN&orig=taylor%20swift" authority="BabelNet" xml:id="singer">Taylor Swift</corpName>
     			</respStmt>
             </editionStmt>
             
-            <pubStmt>
-            	<publisher>musescore</publisher>
-            </pubStmt>
+            <pubStmt></pubStmt>
         </fileDesc>
         
         <encodingDesc xml:id="encodingdesc-0000001724198022">
