@@ -10,7 +10,7 @@
                 <title authURI="https://babelnet.org/" authority="BabelNet" xml:id="t1">Look What You Made Me Do</title>
             	<date xml:id="d1">25. August 2017</date>
             	<respStmt>
-					<persName role="lyr" authURI="https://babelnet.org/synset?word=bn:03340244n&details=1&lang=EN&orig=taylor%20swift" authority="BabelNet" xml:id="lyricist1">Taylor Swift</persName>
+					<persName role="lyr" authURI="https://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970" authority="MusicBrainz" xml:id="lyricist1">Taylor Swift</persName>
 					<persName role="lyr" authURI="https://babelnet.org/" authority="BabelNet" xml:id="lyricist2">Jack Antonoff</persName>
 					<persName role="lyr" authURI="https://babelnet.org/" authority="BabelNet" xml:id="lyricist3">Fred Fairbrass</persName>
 					<persName role="lyr" authURI="https://babelnet.org/" authority="BabelNet" xml:id="lyricist4">Richard Fairbrass</persName>
